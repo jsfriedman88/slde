@@ -50,6 +50,16 @@ From Wikipedia, the free encyclopedia
 
 --- .class #id
 
+## Sample Calculation
+<br><br><br>
+```{r}
+weight<-155 # lbs
+height<-69  # inches
+
+703*weight/(height*height)
+```
+
+--- .class #id
 ## Use the App to Monitor Your Health
 <br><br>
 * Record your BMI daily
@@ -65,14 +75,4 @@ From Wikipedia, the free encyclopedia
 
 --- .class #id
 
-## Future App Improvements
-<br><br><br>
-* Add functionality to store BMI values in a Database
-<br><br>
-* Add functionality to graph the BMI values for a week, month, year
-<br><br>
-Add other health metrics such as resting pulse and % body fat
 
-
-
---- .class #id
